@@ -18,10 +18,6 @@ class Fibonacci {
   }
 }
 
-
-
-
-
 class Iterator{
     constructor(currentValue){
         this.currentValue = currentValue;
@@ -60,7 +56,3 @@ console.log(iterator.next())
 console.log(iterator.prev())
 console.log(iterator.key())
 console.log(iterator.rewind())
-
-
-
-
